@@ -24,3 +24,15 @@ This Python project uses **MediaPipe** and **OpenCV** to detect human faces in r
 ```bash
 git clone https://github.com/aasthamewar/Face-Detection-Blurring-Project.git
 cd Face-Detection-Blurring-Project
+```
+
+### Step 2: Install dependencies
+```bash
+pip install opencv-python mediapipe
+```
+
+### Step 3: Run the program
+```bash
+python main.py
+```
+
